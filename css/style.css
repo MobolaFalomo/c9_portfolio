@@ -21,8 +21,8 @@ body {
 body {
   font-size: 15px;
   line-height: 1.5;
-  color: #333333;
-  background-color: #ffffff;
+  color: #000000;
+  background-color: #fdfcdc;
   position: relative;
 }
 h1,
@@ -31,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #333333;
+  color: #000000;
 }
 h1 {
   font-size: 38px;
@@ -61,13 +61,13 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-  color: #fed9b7;
+  color: #00afb9;
 }
 .text-colored {
-  color: #f07167;
+  color: #0081a7;
 }
 a {
-  color: #f07167;
+  color: #0081a7;
 }
 a:hover {
   color: #fed9b7;
@@ -348,14 +348,14 @@ blockquote {
   padding: 12px 35px 12px 15px;
   display: inline-block;
   width: 100%;
-  background-color: red;
-  color: #ffffff;
+  background-color: #00afb9;
+  color: #000000;
   position: relative;
   text-decoration: none;
 }
 .panel-heading a.collapsed {
-  color: #ffffff;
-  background-color: #333333;
+  color: #000000;
+  background-color: #f07167;
 }
 .panel-heading a:after {
   font-family: "FontAwesome";
@@ -373,7 +373,7 @@ blockquote {
 }
 .panel-heading a:hover {
   text-decoration: none;
-  background-color: red;
+  background-color: #00afb9;
   color: #ffffff;
 }
 .panel-title a i {
@@ -721,3 +721,5 @@ textarea {
   -webkit-transform: scale(1);
   transform: scale(1);
 }
+
+/*ABout Me Section*/
