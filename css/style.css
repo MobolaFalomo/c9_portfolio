@@ -476,11 +476,11 @@ textarea {
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
   background-color: transparent;
-  color: #f07167;
+  color: #0081a7;
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
-  color: #f07167;
+  color: #0081a7;
 }
 @media (min-width: 768px) {
   .main-navigation .navbar-default .navbar-nav > li > a {
@@ -511,7 +511,7 @@ textarea {
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
-  background-color: rgba(0, 0, 0, 0.95);
+  background-color: #00afb9; /*rgba(0, 0, 0, 0.95)*/
   padding: 5px 0;
 }
 .fixed-header-on .site-name {
@@ -721,5 +721,3 @@ textarea {
   -webkit-transform: scale(1);
   transform: scale(1);
 }
-
-/*ABout Me Section*/
