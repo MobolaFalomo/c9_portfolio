@@ -302,7 +302,7 @@ blockquote {
   line-height: 1.42857143;
   min-width: 160px;
   text-align: center;
-  border-radius: 0;
+  border-radius: 2;
   text-transform: uppercase;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -311,13 +311,13 @@ blockquote {
   transition: all 0.2s ease-in-out;
 }
 .btn-default {
-  color: #f07167;
+  color: #00afb9;
   border: 1px solid #cccccc;
 }
 .btn-default:hover {
   color: #ffffff;
-  background-color: #fed9b7;
-  border-color: #fed9b7;
+  background-color: #00afb9;
+  border-color: #00afb9;
 }
 
 /* Collapse
@@ -407,7 +407,7 @@ blockquote {
   height: 45px;
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
-  border-radius: 0px;
+  border-radius: 2px;
 }
 .form-control-feedback {
   color: #cccccc;
@@ -606,7 +606,7 @@ textarea {
   color: black;
 }
 .social-links li.instagram a:hover {
-  color: #fcb045;
+  color: #00afb9;
 }
 .social-links li.linkedin a:hover {
   color: #0976b4;
