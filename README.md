@@ -9,3 +9,9 @@
   - screenshots and links to projects that you want to show case
 
   All pages must be separated
+
+#0081a7
+#00afb9
+#fdfcdc
+#fed9b7
+#f07167
