@@ -169,7 +169,7 @@ blockquote {
   color: #ffffff;
 }
 .default-bg.blue {
-  background-color: #f07167;
+  background-color: #00afb9;
 }
 .translucent-bg {
   color: #ffffff;
@@ -387,8 +387,8 @@ blockquote {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-  background-color: #f07167;
-  border-color: #f07167;
+  background-color: #00afb9;
+  border-color: #00afb9;
   color: #fdfcdc;
 }
 .nav-pills > li > a {
@@ -427,7 +427,7 @@ textarea {
   border-radius: 0px;
 }
 .modal-header {
-  background-color: red;
+  background-color: #00afb9;
   color: #ffffff;
 }
 .modal-header h4 {
@@ -678,7 +678,7 @@ textarea {
   bottom: -1px;
   left: 0;
   right: -1px;
-  background-color: rgb(56, 4, 4);
+  background-color: #fed9b7; /*rgb(56, 4, 4)*/
   cursor: pointer;
   overflow: hidden;
   opacity: 0;
@@ -700,7 +700,7 @@ textarea {
   bottom: 10px;
   text-align: center;
   width: 100%;
-  color: #ffffff;
+  color: #0081a7;
   font-size: 13px;
   font-weight: 300;
 }
@@ -710,7 +710,7 @@ textarea {
   top: 50%;
   font-size: 18px;
   line-height: 1x;
-  color: #ffffff;
+  color: #0081a7;
   margin-top: -8px;
   margin-left: -8px;
   text-align: center;
@@ -721,3 +721,5 @@ textarea {
   -webkit-transform: scale(1);
   transform: scale(1);
 }
+
+/*Portfolio items----------------------------------------------------------------------------------------------*/
