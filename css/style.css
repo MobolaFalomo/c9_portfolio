@@ -245,7 +245,7 @@ blockquote {
   z-index: 3;
   position: relative;
 }
-.bg-image-1 {
+/*.bg-image-1 {
   background: url("../images/webdesign.jpg") 50% 0px no-repeat;
 }
 /*.bg-image-2 {
