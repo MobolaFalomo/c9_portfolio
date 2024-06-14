@@ -112,11 +112,23 @@ blockquote {
   margin-top: 25px;
 }
 
+@media (min-width: 768px) and (max-width: 1110px) {
+  .title {
+    margin-top: 80px;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 766px) {
+  .title {
+    margin-top: 100px;
+  }
+}
+
 /* Layout
 ----------------------------------------------------------------------------- */
 .header {
   color: #ffffff;
-  background-color: rgba(58, 12, 163, 0.5);
+  background-color: rgba(58, 12, 163, 1);
   /*rgba(0, 0, 0, 0.1);*/
   padding: 8px 0;
   -webkit-transition: all 0.2s ease-in-out;
