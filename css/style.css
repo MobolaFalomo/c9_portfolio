@@ -118,7 +118,7 @@ blockquote {
   }
 }
 
-@media (min-width: 500px) and (max-width: 766px) {
+@media (min-width: 400px) and (max-width: 766px) {
   .title {
     margin-top: 100px;
   }
